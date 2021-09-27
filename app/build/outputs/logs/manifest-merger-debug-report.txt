@@ -1,0 +1,721 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:2:1-109:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6c1866a58500adf47910de35a2195b28\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\10a4729edf2c2819cea42f5c84b6d124\library-1.6.1\AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8a43a0a3d67ad647528be3d44c1b1b81\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\dad23adba3fb979504f117bfad5dd278\firebase-analytics-19.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\17bf4f4b038871922722263075864a12\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5d723b9ea2a3e9ad865b5d34e83c4810\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\73898f2313c4e5de3fea24bfe5ee663d\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\56570853ab2c3aa2616c58372a71d2ff\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\93722283db114e57a915fd37d4b64b3c\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\20563ed05ca41ae21912365770a5250a\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ad24c125b13a8e37ce99c866be620cdb\play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\32a32d9aa4b5eae4af9a87dc376d6288\play-services-measurement-sdk-19.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\492b30f0e7b3c8d55402321ef82cc84b\firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b6ea415f531905c42bdc68eba6adc9ea\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\cd33f2e9d1a968b81e76d133efdae63c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\4da6efb1a0097c10194d9292423ee2df\play-services-measurement-base-19.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d6319ec0a1a80c2bec3d633d225d05ac\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\acc101c67191ab1f7b168fc0d9a51f3b\play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2cf47075c01a43726a223a118803504\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\23e654f9db4a28f64e75b2df9d4da6d5\activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d0d639f9983de4c117b12a36bf976cd9\appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0da7d5a94dd0e0378241c8ed9d1e3759\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2fa1bcc7c24d245161e345383ce0ea17\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d5a3002fc0cff364ed08157156171c1c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\a56f4035730a92ea4a7b3fccb4b1d457\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\37e7e66a7e09ce3c0f51b39915c2f786\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ebef8c97c826d4a1ee14b3ba3d1fe2a3\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\68057359e27bbdd06bf2480458ce7f3f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fabe640f9e5e527e1b12fa42a9b2f07a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c3cd4191ace0436612f546d256538292\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\30c8d6d01f63d1802f1d42d5231fab69\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f88ab4bd85c8737598ab7cbd3e71c215\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0331a2723e21d1b00f24d3ef54f554cf\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\9c8693e93fa93e1599708e5f997c4293\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b650020d6ea2a6451544857486e8da90\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\3a0f55079b72067775a8ba85442d799c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8c06ddd65e8444707ea2f45592fb95fe\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8bc568ba2a659586aa51efa03479ddc7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c48274ca9c7916920773a90d1ecacef4\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da6c29c5cff5f3fc560990297e21c9b6\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\744b23b876414f36fd4dfc12a43571df\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\abab69291027e50dfb44dee393ada44f\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\9b2ea4b5368501ae9d83fc5402acc280\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ed3660d46511f8554079412c02d367a8\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e5f242ec43d99bcd54e53a78a4f96253\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f321dc6de199ac139f8a0802c11749c9\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6f7dcb6a18c635161723fcc4cde38773\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8365f62f7fa44db4154021b6a97405c2\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\59436d40c1eb99ab0e35999e65ff6267\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8564b603af698db16583da7c905aa709\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\7fd04d136f76c1c87da587dae49cc250\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c6ae507bfbbbc7cadc9d1fa18b37d46f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\95845392fc02f66a0c202dabf7818a57\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2951fc92df0b0491504555b9bee91436\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5fa73615562d9d7e3f1e8b0405f83600\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:15:5-107:19
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:15:5-107:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6c1866a58500adf47910de35a2195b28\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6c1866a58500adf47910de35a2195b28\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\dad23adba3fb979504f117bfad5dd278\firebase-analytics-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\dad23adba3fb979504f117bfad5dd278\firebase-analytics-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\17bf4f4b038871922722263075864a12\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\17bf4f4b038871922722263075864a12\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\73898f2313c4e5de3fea24bfe5ee663d\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\73898f2313c4e5de3fea24bfe5ee663d\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\20563ed05ca41ae21912365770a5250a\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\20563ed05ca41ae21912365770a5250a\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\32a32d9aa4b5eae4af9a87dc376d6288\play-services-measurement-sdk-19.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\32a32d9aa4b5eae4af9a87dc376d6288\play-services-measurement-sdk-19.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b6ea415f531905c42bdc68eba6adc9ea\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b6ea415f531905c42bdc68eba6adc9ea\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\cd33f2e9d1a968b81e76d133efdae63c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\cd33f2e9d1a968b81e76d133efdae63c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\4da6efb1a0097c10194d9292423ee2df\play-services-measurement-base-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\4da6efb1a0097c10194d9292423ee2df\play-services-measurement-base-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d6319ec0a1a80c2bec3d633d225d05ac\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d6319ec0a1a80c2bec3d633d225d05ac\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\acc101c67191ab1f7b168fc0d9a51f3b\play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\acc101c67191ab1f7b168fc0d9a51f3b\play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.example.apptcc.Login
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:12:9-52
+	android:name
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:12:19-40
+activity#com.example.apptcc.Register
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:13:9-46
+	android:name
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:13:19-43
+activity#com.example.apptcc.MainActivity
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.apptcc.Pop
+ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:21:9-23:59
+	android:theme
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml:22:13-32
+uses-sdk
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6c1866a58500adf47910de35a2195b28\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6c1866a58500adf47910de35a2195b28\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\10a4729edf2c2819cea42f5c84b6d124\library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\10a4729edf2c2819cea42f5c84b6d124\library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8a43a0a3d67ad647528be3d44c1b1b81\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8a43a0a3d67ad647528be3d44c1b1b81\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\dad23adba3fb979504f117bfad5dd278\firebase-analytics-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\dad23adba3fb979504f117bfad5dd278\firebase-analytics-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\17bf4f4b038871922722263075864a12\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\17bf4f4b038871922722263075864a12\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5d723b9ea2a3e9ad865b5d34e83c4810\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5d723b9ea2a3e9ad865b5d34e83c4810\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\73898f2313c4e5de3fea24bfe5ee663d\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\73898f2313c4e5de3fea24bfe5ee663d\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\56570853ab2c3aa2616c58372a71d2ff\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\56570853ab2c3aa2616c58372a71d2ff\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\93722283db114e57a915fd37d4b64b3c\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\93722283db114e57a915fd37d4b64b3c\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\20563ed05ca41ae21912365770a5250a\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\20563ed05ca41ae21912365770a5250a\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ad24c125b13a8e37ce99c866be620cdb\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ad24c125b13a8e37ce99c866be620cdb\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\32a32d9aa4b5eae4af9a87dc376d6288\play-services-measurement-sdk-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\32a32d9aa4b5eae4af9a87dc376d6288\play-services-measurement-sdk-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\492b30f0e7b3c8d55402321ef82cc84b\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\492b30f0e7b3c8d55402321ef82cc84b\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b6ea415f531905c42bdc68eba6adc9ea\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b6ea415f531905c42bdc68eba6adc9ea\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\cd33f2e9d1a968b81e76d133efdae63c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\cd33f2e9d1a968b81e76d133efdae63c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\4da6efb1a0097c10194d9292423ee2df\play-services-measurement-base-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\4da6efb1a0097c10194d9292423ee2df\play-services-measurement-base-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d6319ec0a1a80c2bec3d633d225d05ac\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d6319ec0a1a80c2bec3d633d225d05ac\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\acc101c67191ab1f7b168fc0d9a51f3b\play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\acc101c67191ab1f7b168fc0d9a51f3b\play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2cf47075c01a43726a223a118803504\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2cf47075c01a43726a223a118803504\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\23e654f9db4a28f64e75b2df9d4da6d5\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\23e654f9db4a28f64e75b2df9d4da6d5\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d0d639f9983de4c117b12a36bf976cd9\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d0d639f9983de4c117b12a36bf976cd9\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0da7d5a94dd0e0378241c8ed9d1e3759\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0da7d5a94dd0e0378241c8ed9d1e3759\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2fa1bcc7c24d245161e345383ce0ea17\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2fa1bcc7c24d245161e345383ce0ea17\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d5a3002fc0cff364ed08157156171c1c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\d5a3002fc0cff364ed08157156171c1c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\a56f4035730a92ea4a7b3fccb4b1d457\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\a56f4035730a92ea4a7b3fccb4b1d457\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\37e7e66a7e09ce3c0f51b39915c2f786\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\37e7e66a7e09ce3c0f51b39915c2f786\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ebef8c97c826d4a1ee14b3ba3d1fe2a3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ebef8c97c826d4a1ee14b3ba3d1fe2a3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\68057359e27bbdd06bf2480458ce7f3f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\68057359e27bbdd06bf2480458ce7f3f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fabe640f9e5e527e1b12fa42a9b2f07a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fabe640f9e5e527e1b12fa42a9b2f07a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c3cd4191ace0436612f546d256538292\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c3cd4191ace0436612f546d256538292\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\30c8d6d01f63d1802f1d42d5231fab69\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\30c8d6d01f63d1802f1d42d5231fab69\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f88ab4bd85c8737598ab7cbd3e71c215\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f88ab4bd85c8737598ab7cbd3e71c215\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0331a2723e21d1b00f24d3ef54f554cf\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0331a2723e21d1b00f24d3ef54f554cf\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\9c8693e93fa93e1599708e5f997c4293\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\9c8693e93fa93e1599708e5f997c4293\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b650020d6ea2a6451544857486e8da90\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b650020d6ea2a6451544857486e8da90\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\3a0f55079b72067775a8ba85442d799c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\3a0f55079b72067775a8ba85442d799c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8c06ddd65e8444707ea2f45592fb95fe\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8c06ddd65e8444707ea2f45592fb95fe\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8bc568ba2a659586aa51efa03479ddc7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8bc568ba2a659586aa51efa03479ddc7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c48274ca9c7916920773a90d1ecacef4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c48274ca9c7916920773a90d1ecacef4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da6c29c5cff5f3fc560990297e21c9b6\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\da6c29c5cff5f3fc560990297e21c9b6\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\744b23b876414f36fd4dfc12a43571df\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\744b23b876414f36fd4dfc12a43571df\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\abab69291027e50dfb44dee393ada44f\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\abab69291027e50dfb44dee393ada44f\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\9b2ea4b5368501ae9d83fc5402acc280\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\9b2ea4b5368501ae9d83fc5402acc280\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ed3660d46511f8554079412c02d367a8\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\ed3660d46511f8554079412c02d367a8\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e5f242ec43d99bcd54e53a78a4f96253\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\e5f242ec43d99bcd54e53a78a4f96253\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f321dc6de199ac139f8a0802c11749c9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f321dc6de199ac139f8a0802c11749c9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6f7dcb6a18c635161723fcc4cde38773\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\6f7dcb6a18c635161723fcc4cde38773\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8365f62f7fa44db4154021b6a97405c2\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8365f62f7fa44db4154021b6a97405c2\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\59436d40c1eb99ab0e35999e65ff6267\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\59436d40c1eb99ab0e35999e65ff6267\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8564b603af698db16583da7c905aa709\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\8564b603af698db16583da7c905aa709\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\7fd04d136f76c1c87da587dae49cc250\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\7fd04d136f76c1c87da587dae49cc250\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c6ae507bfbbbc7cadc9d1fa18b37d46f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c6ae507bfbbbc7cadc9d1fa18b37d46f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\95845392fc02f66a0c202dabf7818a57\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\95845392fc02f66a0c202dabf7818a57\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2951fc92df0b0491504555b9bee91436\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2951fc92df0b0491504555b9bee91436\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5fa73615562d9d7e3f1e8b0405f83600\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5fa73615562d9d7e3f1e8b0405f83600\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+		ADDED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+		INJECTED from E:\trabalhos\MOB\AppTCC\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:13:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\acc101c67191ab1f7b168fc0d9a51f3b\play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\acc101c67191ab1f7b168fc0d9a51f3b\play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:34:13-86
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:41:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:39:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:43:9-47:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:46:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:47:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:48:9-52:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:51:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:52:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:49:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:56:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:54:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:58:9-62:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:61:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:62:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:59:13-83
+activity#com.firebase.ui.auth.ui.email.WelcomeBackEmailLinkPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:63:9-67:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:66:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:67:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:64:13-84
+activity#com.firebase.ui.auth.ui.email.EmailLinkCatcherActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:68:9-73:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:71:13-29
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:73:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:72:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:69:13-82
+activity#com.firebase.ui.auth.ui.email.EmailLinkErrorRecoveryActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:74:9-78:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:77:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:75:13-88
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:79:9-82:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:82:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:80:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:83:9-87:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:86:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:87:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:85:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:84:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:88:9-100:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:90:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:89:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:92:13-99:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:93:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:95:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:95:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:96:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:98:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:98:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:102:9-106:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:104:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:105:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:106:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\c2760450b50d8d3f0914f603630eef8e\firebase-ui-auth-7.2.0\AndroidManifest.xml:103:13-79
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\fba6a590e046ae3bb28498ec65ed943f\firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\b84d1e3bcea0d4d5f9dc27a6a63e5bff\play-services-measurement-sdk-api-19.0.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\5cd2cea2e3f4f0e0a3821ae9e5b45e56\play-services-measurement-api-19.0.1\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\2aae6c639194544a0dae8dfba6f260df\firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0b4d2c09f1491919ec9733f108c8fce9\play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\83c8a9ec725032d262189f235d0b99a9\play-services-measurement-impl-19.0.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.1] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\81c849a1850caeb2a712a86533e7ab90\play-services-measurement-19.0.1\AndroidManifest.xml:40:13-87
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\diamo\.gradle\caches\transforms-2\files-2.1\0e9e5f3fd1aaa2a20b7d31d01d3d95e5\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

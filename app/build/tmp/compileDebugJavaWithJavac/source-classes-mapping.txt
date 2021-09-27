@@ -1,0 +1,12 @@
+com/example/apptcc/Login.java
+ com.example.apptcc.Login
+ com.example.apptcc.Login$1
+com/example/apptcc/BuildConfig.java
+ com.example.apptcc.BuildConfig
+com/example/apptcc/Pop.java
+ com.example.apptcc.Pop
+com/example/apptcc/MainActivity.java
+ com.example.apptcc.MainActivity
+com/example/apptcc/Register.java
+ com.example.apptcc.Register
+ com.example.apptcc.Register$1
