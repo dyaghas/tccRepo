@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Apptheme.NoActionBar">
-        <activity android:name=".Login"></activity>
+        <activity
+            android:name=".OptionsActivity"
+            android:exported="true" />
+        <activity android:name=".Login" />
         <activity android:name=".Register" />
         <activity android:name=".MainActivity">
             <intent-filter>

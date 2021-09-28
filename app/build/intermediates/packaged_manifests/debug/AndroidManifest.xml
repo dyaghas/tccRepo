@@ -23,6 +23,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Apptheme.NoActionBar" >
+        <activity
+            android:name="com.example.apptcc.OptionsActivity"
+            android:exported="true" />
         <activity android:name="com.example.apptcc.Login" />
         <activity android:name="com.example.apptcc.Register" />
         <activity android:name="com.example.apptcc.MainActivity" >

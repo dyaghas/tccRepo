@@ -2050,6 +2050,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id imageViewPop
 id info
 id invisible
@@ -2069,7 +2070,6 @@ id light
 id line1
 id line3
 id linear
-id linearLayout
 id listMode
 id list_item
 id logo
@@ -2144,6 +2144,7 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id optionsImage
 id outline
 id outward
 id packed
@@ -2278,6 +2279,8 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView2
+id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2394,6 +2397,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout activity_options
 layout activity_register
 layout alert_pop_window
 layout browser_actions_context_menu_page
@@ -2573,6 +2577,7 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string config
 string confirmarSenha
 string default_web_client_id
 string email
@@ -2687,6 +2692,7 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string inicio
 string item_view_role_description
 string material_clock_display_divider
 string material_clock_toggle_content_description
@@ -2749,6 +2755,7 @@ string popUp_string
 string professor
 string project_id
 string registrar
+string sair
 string search_menu_title
 string senha
 string status_bar_notification_info_overflow

@@ -6,213 +6,262 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
-    <LinearLayout
-        android:id="@+id/linearLayout"
+    <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_weight="1"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0">
+        app:layout_constraintTop_toTopOf="parent">
 
-
-        <TableLayout
+        <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1">
+            android:gravity="center_vertical"
+            android:layout_weight="2">
 
-            <TableRow
-                android:id="@+id/alertButton"
-                android:onClick="buttonPopUp"
-                android:layout_width="match_parent"
+
+            <LinearLayout
+                android:layout_width="100dp"
                 android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@color/orange"
+                android:orientation="horizontal"
+                android:layout_weight="1"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
                 android:gravity="center"
-                >
+                android:layout_weight="1">
 
-                <TableLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/inicio" />
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="bottom">
+            </LinearLayout>
 
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="right"
+                android:layout_weight="1">
 
-                        <ImageView
-                            android:id="@+id/alertImage"
-                            android:layout_width="150dp"
-                            android:layout_height="200dp"
-                            android:src="@drawable/ic_alert" />
-                    </TableRow>
+                <ImageView
+                    android:id="@+id/optionsImage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:onClick="buttonOptions"
+                    android:paddingHorizontal="20dp"
+                    app:srcCompat="@drawable/ic_config"
+                    android:contentDescription="@string/config" />
 
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="top">
+            </LinearLayout>
+        </TableRow>
 
-                        <TextView
-                            android:id="@+id/alertText"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/str_btn1"
-                            android:textColor="@color/black"
-                            android:gravity="center"/>
-
-                    </TableRow>
-                </TableLayout>
-            </TableRow>
-
-            <TableRow
-                android:id="@+id/emergencyButton"
-                android:onClick="buttonPopUp"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@color/red"
-                android:gravity="center">
-
-                <TableLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent">
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="bottom">
-
-
-                        <ImageView
-                            android:id="@+id/emergencyImage"
-                            android:layout_width="150dp"
-                            android:layout_height="200dp"
-                            android:src="@drawable/ic_danger" />
-                    </TableRow>
-
-                    <TableRow
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="top">
-
-                        <TextView
-                            android:id="@+id/dangerText"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/str_btn2"
-                            android:textColor="@color/black"
-                            android:gravity="center"/>
-
-                    </TableRow>
-                </TableLayout>
-            </TableRow>
-        </TableLayout>
-        <TableLayout
+        <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1">
-
-            <TableRow
-                android:id="@+id/questionButton"
-                android:onClick="buttonPopUp"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@color/blue"
-                android:gravity="center">
-
+            android:layout_weight="9">
 
                 <TableLayout
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent">
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
 
                     <TableRow
+                        android:id="@+id/alertButton"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:gravity="bottom">
+                        android:background="@color/orange"
+                        android:gravity="center"
+                        android:onClick="buttonPopUp">
+
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="bottom">
 
 
-                        <ImageView
-                            android:id="@+id/questionImage"
-                            android:layout_width="150dp"
-                            android:layout_height="200dp"
-                            android:src="@drawable/ic_question" />
+                                <ImageView
+                                    android:id="@+id/alertImage"
+                                    android:layout_width="150dp"
+                                    android:layout_height="200dp"
+                                    app:srcCompat="@drawable/ic_alert" />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="top">
+
+                                <TextView
+                                    android:id="@+id/alertText"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/str_btn1"
+                                    android:textColor="@color/black" />
+
+                            </TableRow>
+                        </TableLayout>
                     </TableRow>
 
                     <TableRow
+                        android:id="@+id/emergencyButton"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:gravity="top">
+                        android:background="@color/red"
+                        android:gravity="center"
+                        android:onClick="buttonPopUp">
 
-                        <TextView
-                            android:id="@+id/questionText"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/str_btn3"
-                            android:textColor="@color/black"
-                            android:gravity="center"/>
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
 
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="bottom">
+
+
+                                <ImageView
+                                    android:id="@+id/emergencyImage"
+                                    android:layout_width="150dp"
+                                    android:layout_height="200dp"
+                                    app:srcCompat="@drawable/ic_danger" />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="top">
+
+                                <TextView
+                                    android:id="@+id/dangerText"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/str_btn2"
+                                    android:textColor="@color/black" />
+
+                            </TableRow>
+                        </TableLayout>
                     </TableRow>
                 </TableLayout>
-            </TableRow>
-
-            <TableRow
-                android:id="@+id/signalButton"
-                android:onClick="buttonPopUp"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@color/yellow"
-                android:gravity="center">
 
                 <TableLayout
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent">
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
 
                     <TableRow
+                        android:id="@+id/questionButton"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:gravity="bottom">
+                        android:background="@color/blue"
+                        android:gravity="center"
+                        android:onClick="buttonPopUp">
 
 
-                        <ImageView
-                            android:id="@+id/signalImage"
-                            android:layout_width="150dp"
-                            android:layout_height="200dp"
-                            android:src="@drawable/ic_signal" />
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="bottom">
+
+
+                                <ImageView
+                                    android:id="@+id/questionImage"
+                                    android:layout_width="150dp"
+                                    android:layout_height="200dp"
+                                    app:srcCompat="@drawable/ic_question" />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="top">
+
+                                <TextView
+                                    android:id="@+id/questionText"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/str_btn3"
+                                    android:textColor="@color/black" />
+
+                            </TableRow>
+                        </TableLayout>
                     </TableRow>
 
                     <TableRow
+                        android:id="@+id/signalButton"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:gravity="top">
+                        android:background="@color/yellow"
+                        android:gravity="center"
+                        android:onClick="buttonPopUp">
 
-                        <TextView
-                            android:id="@+id/signalText"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/str_btn4"
-                            android:textColor="@color/black"
-                            android:gravity="center"/>
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
 
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="bottom">
+
+
+                                <ImageView
+                                    android:id="@+id/signalImage"
+                                    android:layout_width="150dp"
+                                    android:layout_height="200dp"
+                                    app:srcCompat="@drawable/ic_signal" />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="top">
+
+                                <TextView
+                                    android:id="@+id/signalText"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/str_btn4"
+                                    android:textColor="@color/black" />
+
+                            </TableRow>
+                        </TableLayout>
                     </TableRow>
                 </TableLayout>
-            </TableRow>
-        </TableLayout>
-    </LinearLayout>
+        </TableRow>
+
+    </TableLayout>
 
 
 

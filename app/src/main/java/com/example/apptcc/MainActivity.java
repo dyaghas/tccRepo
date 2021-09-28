@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.TableRow;
 
 import com.google.firebase.auth.FirebaseAuth;
@@ -63,6 +62,13 @@ public class MainActivity extends AppCompatActivity {
                 pressedButton = 0;
         }
         intent.putExtra("pressedButton", pressedButton);
+        startActivity(intent);
+    }
+
+    public void buttonOptions(View view) {
+
+        //abre a activity OptionsActivity
+        Intent intent = new Intent(MainActivity.this, OptionsActivity.class);
         startActivity(intent);
     }
 

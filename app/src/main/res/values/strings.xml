@@ -3,8 +3,9 @@
     <string name="app_name">AppTCC</string>
 
     <!--strings da tela principal-->
-    <string name="str_btn1">Necessidade Momentânea</string>
-    <string name="str_btn2">Necessidade Emergencial</string>
+    <string name="inicio">Início</string>
+    <string name="str_btn1">Requisição </string>
+    <string name="str_btn2">Urgência </string>
     <string name="str_btn3">Dúvida</string>
     <string name="str_btn4">Sinalizar</string>
     <string name="popUp_string">PopUp String</string>
@@ -20,4 +21,8 @@
 
     <string name="mudarParaCadastro">Não possui uma conta? Clique aqui</string>
     <string name="mudarParaLogin">Já possui uma conta? Clique aqui</string>
+
+    <!--strings da tela de configurações-->
+    <string name="config">Configurações</string>
+    <string name="sair">Sair da conta</string>
 </resources>
