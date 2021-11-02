@@ -30,6 +30,11 @@ public class OptionsActivity extends AppCompatActivity {
         }
     }
 
+    public void deleteUser(View view) {
+        Intent intent = new Intent(OptionsActivity.this, DeleteActivity.class);
+        startActivity(intent);
+    }
+
     public void buttonOptionsExit(View view) {
 
         //retorna a MainActivity

@@ -22,6 +22,7 @@ public class Login extends AppCompatActivity {
     EditText loginEmail;
     EditText loginSenha;
     TextView mudarParaCadastro;
+    TextView resetSenha;
     Button entrarBtn;
 
     FirebaseAuth mAuth;
@@ -35,6 +36,7 @@ public class Login extends AppCompatActivity {
         loginEmail = (EditText)findViewById((R.id.editTextEmailLogin));
         loginSenha = (EditText)findViewById((R.id.editTextPassswordLogin));
         mudarParaCadastro = (TextView)findViewById(R.id.mudarParaCadastro);
+        resetSenha = (TextView)findViewById(R.id.resetSenha);
         entrarBtn = (Button)findViewById(R.id.entrarBtn);
 
         mAuth = FirebaseAuth.getInstance();
@@ -45,6 +47,10 @@ public class Login extends AppCompatActivity {
 
         mudarParaCadastro.setOnClickListener(view -> {
             startActivity(new Intent(Login.this, Register.class));
+        });
+
+        resetSenha.setOnClickListener(view -> {
+            startActivity(new Intent(Login.this, ForgotPassword.class));
         });
     }
 

@@ -28,6 +28,10 @@
         "source": "E:\\trabalhos\\MOB\\AppTCC\\app\\src\\main\\res\\drawable\\ic_question.xml"
     },
     {
+        "merged": "E:\\trabalhos\\MOB\\AppTCC\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_delete.xml.flat",
+        "source": "E:\\trabalhos\\MOB\\AppTCC\\app\\src\\main\\res\\layout\\activity_delete.xml"
+    },
+    {
         "merged": "E:\\trabalhos\\MOB\\AppTCC\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close.xml.flat",
         "source": "E:\\trabalhos\\MOB\\AppTCC\\app\\src\\main\\res\\drawable\\ic_close.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "E:\\trabalhos\\MOB\\AppTCC\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
         "source": "E:\\trabalhos\\MOB\\AppTCC\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\trabalhos\\MOB\\AppTCC\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "E:\\trabalhos\\MOB\\AppTCC\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
     },
     {
         "merged": "E:\\trabalhos\\MOB\\AppTCC\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",

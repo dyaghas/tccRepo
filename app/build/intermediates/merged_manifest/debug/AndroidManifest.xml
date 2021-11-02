@@ -24,6 +24,12 @@
         android:testOnly="true"
         android:theme="@style/Apptheme.NoActionBar" >
         <activity
+            android:name="com.example.apptcc.DeleteActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.apptcc.ForgotPassword"
+            android:exported="true" />
+        <activity
             android:name="com.example.apptcc.OptionsActivity"
             android:exported="true" />
         <activity android:name="com.example.apptcc.Login" />

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Apptheme.NoActionBar">
         <activity
+            android:name=".DeleteActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ForgotPassword"
+            android:exported="true" />
+        <activity
             android:name=".OptionsActivity"
             android:exported="true" />
         <activity android:name=".Login" />

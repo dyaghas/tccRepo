@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center">
@@ -29,7 +30,7 @@
             android:id="@+id/imageViewPop"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/ic_alert" />
+            app:srcCompat="@drawable/ic_alert" />
 
         <TextView
             android:id="@+id/popUpText"
@@ -50,6 +51,7 @@
             android:layout_height="wrap_content"
             android:clickable="true"
             android:onClick="finishActivity"
-            android:src="@drawable/ic_close" />
+            app:srcCompat="@drawable/ic_close"
+            tools:ignore="SpeakableTextPresentCheck" />
     </LinearLayout>
 </RelativeLayout>

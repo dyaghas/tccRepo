@@ -18,9 +18,19 @@
     <string name="confirmarSenha">Confirmar senha</string>
     <string name="professor">Sou professor</string>
     <string name="estudante">Sou estudante</string>
+    <string name="voltar">Voltar</string>
+    <string name="enviar">Enviar</string>
+    <string name="excluir">Excluir Conta</string>
 
     <string name="mudarParaCadastro">Não possui uma conta? Clique aqui</string>
     <string name="mudarParaLogin">Já possui uma conta? Clique aqui</string>
+    <string name="esqueciSenha">Esquceci minha senha</string>
+
+    <string name="alertaExcluirConta">Deseja mesmo excluir sua conta?</string>
+    <string name="msgExcluirConta">Digite "excluir conta"</string>
+    <string name="excluirBtnText">Excluir</string>
+
+    <string name="digite">Digite aqui</string>
 
     <!--strings da tela de configurações-->
     <string name="config">Configurações</string>

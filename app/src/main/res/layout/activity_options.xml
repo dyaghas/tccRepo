@@ -70,22 +70,28 @@
             android:onClick="logOut">
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/sairText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="30dp"
                 android:paddingStart="30dp"
-                android:text="@string/sair"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                android:text="@string/sair"/>
         </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center_vertical"
-            android:layout_weight="3">
+            android:layout_weight="3"
+            android:onClick="deleteUser">
+
+            <TextView
+                android:id="@+id/excluirText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="30dp"
+                android:paddingStart="30dp"
+                android:text="@string/excluir" />
         </TableRow>
 
         <TableRow

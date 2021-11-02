@@ -3,10 +3,16 @@ com/example/apptcc/BuildConfig.java
 com/example/apptcc/Login.java
  com.example.apptcc.Login
  com.example.apptcc.Login$1
+com/example/apptcc/ForgotPassword.java
+ com.example.apptcc.ForgotPassword
+ com.example.apptcc.ForgotPassword$1
 com/example/apptcc/Pop.java
  com.example.apptcc.Pop
 com/example/apptcc/OptionsActivity.java
  com.example.apptcc.OptionsActivity
+com/example/apptcc/DeleteActivity.java
+ com.example.apptcc.DeleteActivity
+ com.example.apptcc.DeleteActivity$1
 com/example/apptcc/Register.java
  com.example.apptcc.Register
  com.example.apptcc.Register$1

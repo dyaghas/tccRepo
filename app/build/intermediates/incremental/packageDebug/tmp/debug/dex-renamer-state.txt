@@ -1,4 +1,4 @@
-#Tue Sep 28 12:58:55 BRT 2021
+#Mon Nov 01 22:58:00 BRT 2021
 base.0=E\:\\trabalhos\\MOB\\AppTCC\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

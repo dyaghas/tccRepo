@@ -1910,6 +1910,7 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btnDeleteAccount
 id btn_holder
 id buttonPanel
 id button_continue
@@ -1989,6 +1990,7 @@ id easeIn
 id easeInOut
 id easeOut
 id editTextConfirmPassword
+id editTextConfirmation
 id editTextEmailLogin
 id editTextPassswordLogin
 id edit_phone_number
@@ -2008,6 +2010,8 @@ id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id entrarBtn
+id enviarBtn
+id excluirText
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -2181,6 +2185,7 @@ id rectangles
 id registrarBtn
 id resend_barrier
 id resend_code
+id resetSenha
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2189,6 +2194,7 @@ id right_side
 id root
 id rounded
 id row_index_key
+id sairText
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2281,6 +2287,7 @@ id textTop
 id textView
 id textView2
 id textView3
+id textView4
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2322,6 +2329,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id voltarBtn
 id welcome_back_email_link_body
 id welcome_back_idp_button
 id welcome_back_idp_prompt
@@ -2395,6 +2403,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_delete
+layout activity_forgot_password
 layout activity_login
 layout activity_main
 layout activity_options
@@ -2550,6 +2560,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string alertaExcluirConta
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
@@ -2580,10 +2591,15 @@ string common_signin_button_text_long
 string config
 string confirmarSenha
 string default_web_client_id
+string digite
 string email
 string entrar
+string enviar
 string error_icon_content_description
+string esqueciSenha
 string estudante
+string excluir
+string excluirBtnText
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
@@ -2709,6 +2725,7 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string msgExcluirConta
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description
@@ -2763,6 +2780,7 @@ string str_btn1
 string str_btn2
 string str_btn3
 string str_btn4
+string voltar
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow
